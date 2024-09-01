@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Aslam</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h1 align="center">Hi 👋, It's Mohamed Aslam</h1>
+<h3 align="center">Loves doing tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslamcodes&label=Profile%20views&color=0e75b6&style=flat" alt="aslamcodes" /> </p>
 
